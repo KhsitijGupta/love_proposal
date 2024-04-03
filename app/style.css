@@ -42,9 +42,9 @@ p{
     left:500px;
     bottom:50px;
 }
-@media(max-width:380px){
+@media(max-width:570px){
     img{
-        width:39%;
+        width:65%;
     }
     #button{
         display: flex;
